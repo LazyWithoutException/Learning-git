@@ -1,2 +1,4 @@
+
 bla
 druga linija isto izmenjena
+blabla
